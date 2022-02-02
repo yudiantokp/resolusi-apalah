@@ -1,7 +1,7 @@
 list daftar pemain inti RRQ Hoshi:
 - Albert
 - VYN
-- Clay
+- Luminaire
 - R7
 - Lemon
 
