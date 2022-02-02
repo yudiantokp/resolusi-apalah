@@ -4,3 +4,10 @@ list daftar pemain inti RRQ Hoshi:
 - Clay
 - R7
 - Lemon
+
+List Daftar pemain cadangan
+- Aether
+- Violence
+- Yummy
+- Skylar
+- Psychoo
